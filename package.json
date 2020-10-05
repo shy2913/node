@@ -1,0 +1,18 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "this is about my nodejs tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node"
+  },
+  "author": "yohan shin",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
